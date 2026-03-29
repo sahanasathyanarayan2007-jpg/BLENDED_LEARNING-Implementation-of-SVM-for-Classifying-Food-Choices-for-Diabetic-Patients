@@ -114,8 +114,8 @@ Index(['Calories', 'Total Fat', 'Saturated Fat', 'Monounsaturated Fat',
        'Total Carbohydrate', 'Dietary Fiber', 'Sugars', 'Sugar Alcohol',
        'Protein', 'Vitamin A', 'Vitamin C', 'Calcium', 'Iron', 'class'],
       dtype='object')
-Name: K Darren Joseph
-Register Number: 212225230039
+Name: Sahana.S
+Register Number: 25004522
 Accuracy: 0.9794938917975567
 Classification Report:
                precision    recall  f1-score   support
